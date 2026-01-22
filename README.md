@@ -26,21 +26,21 @@ I’m currently focused on starting my career in Germany and looking for an **Au
 ---
 
 ## 💻 Featured Projects
-🔹 **Instal-kra (Commercial project) (10/25 – 12/25)**  
+🔹 **Instal-kra (Commercial project) (10/2025 – 12/2025)**  
 Website development & deployment (HTML/CSS/JS)  
 ➡️ *Link:* https://www.instal-kra.pl
 ➡️ *Repo:* https://github.com/elenalesyuk-instal-kra/instal-kra
 
-🔹 **Team Project (GoIT) – Furniture (8/25 – 8/25)**  
+🔹 **Team Project (GoIT) – Furniture (8/2025 – 8/2025)**  
 Team project with Git workflow and UI integration. Final result was presented as a team.  
 **Role:** Team Lead (task coordination, communication, responsibility for delivery).  
 ➡️ Repo: https://github.com/helenamitiaieva/project-group-12
 
-🔹 **Team Project – Legendary Waddle (2/24 – 2/24)**  
+🔹 **Team Project – Legendary Waddle (2/2024 – 2/2024)**  
 Team project built in collaboration (Git/GitHub, teamwork, project structure, implementation & presentation).  
 ➡️ Repo: https://github.com/compotelover/legendary-waddle
 
-🔹 **Learning Projects (GoIT Homeworks) (1/24 – 10/25)**  
+🔹 **Learning Projects (GoIT Homeworks) (1/2024 – 10/2025)**  
 Practical homework assignments to reinforce and deepen my knowledge in JavaScript and web development.  
 ➡️ Repo: https://github.com/helenamitiaieva/goit-js-hw-12  
 ➡️ Repo: https://github.com/helenamitiaieva/09-auth
@@ -54,7 +54,7 @@ Practical homework assignments to reinforce and deepen my knowledge in JavaScrip
 
 ---
 
-## 🎓 Education (12/23 – 3/26)
+## 🎓 Education (12/2023 – 3/2026)
 **GoIT – Full Stack Development (online)**  
 Practice-oriented learning with real projects: HTML, CSS, JavaScript, React, Node.js, Git/GitHub, REST API, deployment.
 
