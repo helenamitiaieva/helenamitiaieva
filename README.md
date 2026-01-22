@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Olena Mitiaieva
 
-🎯 **Applicant for Ausbildung – Fachinformatikerin Systemintegration (Munich)**  
-💻 Junior Web / Full Stack Developer (projects + team experience)
+🎯 **Applicant for Ausbildung – Fachinformatikerin Systemintegration (München)**  
+💻 Junior Front-End Web Developer (projects + team experience)
 
 ---
 
 ## 💡 About me
-I’m a motivated and disciplined IT learner with strong hands-on project experience in **Web Development / Full Stack**.  
-During my обучение I built multiple projects and worked in teams using **Git/GitHub**, development workflows, and presentations.
+I’m a motivated and disciplined IT learner with strong hands-on project experience in **Front-End Web Development**.  
+During my education I built multiple projects and worked in teams using **Git/GitHub**, development workflows, and presentations.
 
 I’m currently focused on starting my career in Germany and looking for an **Ausbildung as Fachinformatikerin Systemintegration**, where I can grow into IT Support, networking and system administration roles.
 
