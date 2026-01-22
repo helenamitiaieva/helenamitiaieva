@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olena Mitiaieva
+## 👋 Hi, I'm Olena Mitiaieva
 
 🎯 **Applicant for Ausbildung – Fachinformatikerin Systemintegration (München)**  
 💻 Junior Front-End Web Developer (projects + team experience)
