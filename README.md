@@ -48,7 +48,7 @@ Practical homework assignments to reinforce and deepen my knowledge in JavaScrip
 ---
 
 ## 🤝 Teamwork & Leadership
-- Worked in teams (minimum **3 team projects**)
+- Worked in teams (minimum **2 team projects**)
 - Experience with **Git collaboration** (branches, pull requests, merge)
 - In one project I was a **Team Lead**, managed tasks and took responsibility for project delivery
 
