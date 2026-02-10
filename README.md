@@ -48,12 +48,15 @@ I am currently focused on starting my IT career in Germany and looking for an Au
 - Networking basics  
 - Understanding of development → build → deployment workflows  
 - Basic system-oriented troubleshooting mind
-- 
+  
 ---
 
 ## 💻 Featured Projects
+
 🔹 **Instal-kra (Commercial project) (10/2025 – 12/2025)**  
+
 Website development & deployment (HTML/CSS/JS)  
+
 **Systemintegration-related aspects:**
 - Setup and maintenance of the **project structure**
 - **Build configuration** and production-ready setup
@@ -62,18 +65,22 @@ Website development & deployment (HTML/CSS/JS)
 - Data-driven rendering and separation of data and UI
 - Ensuring **system stability across devices and browsers**
 - Post-deployment updates and maintenance considerations
+
 ➡️ *Link:* https://www.instal-kra.pl
 ➡️ *Repo:* https://github.com/elenalesyuk-instal-kra/instal-kra
 
 🔹 **Team Project (GoIT) – Furniture (8/2025 – 8/2025)**  
+
 Team project with Git workflow and UI integration. Final result was presented as a team.  
 **Role:** Team Lead (task coordination, communication, responsibility for delivery).  
+
 **Systemintegration-related aspects:**
 - Task coordination and responsibility for delivery
 - Managing **Git workflows** (branches, merges, pull requests)
 - Coordinating integration of individual components into a working system
 - Ensuring consistent structure and functionality across the project
 - Final system presentation as a team
+  
 ➡️ *Repo:* https://github.com/helenamitiaieva/project-group-12
 
 🔹 **Team Project – Legendary Waddle (2/2024 – 2/2024)**  
